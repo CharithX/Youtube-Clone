@@ -1,0 +1,58 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    position:sticky;
+    top: 0;
+    z-index: 100;
+    background-color: white;
+ 
+    
+}
+.header_left{
+    display: flex;
+    align-items: center;
+}
+.logo_icon{
+    height: 2.5rem;
+    object-fit: contain;
+    margin-left: 20px;
+    
+}
+.header__input{
+      display: flex;
+    align-items: center;
+    width :40%;
+    border: 1px solid lightgrey ;
+    
+}
+.header_icons{
+      display: flex;
+    align-items: center;
+     margin-right: 50px;
+  
+}
+.header__input >input {
+    flex: 1;
+  
+}
+.header__mic{
+       display: flex;
+    align-items: center;
+    position: fixed;
+    right :420px;
+  
+}
+.header_inputButton{
+width:50px !important;
+background-color: #fafafa;
+border-left: 1px sold lightgrey;
+color:grey;
+box-sizing: border-box;
+ 
+}
+.header__icon{
+    margin-right: 25px;
+    
+}
