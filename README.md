@@ -1,4 +1,4 @@
-# Getting Started 
+# React frontend project
 
 Frontend of Youtube Desktop Application
 ### `npm start`
